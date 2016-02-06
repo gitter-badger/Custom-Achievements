@@ -1,0 +1,7 @@
+name: Custom-Achievements
+main: mcrafters\ca
+version: 1.0
+api: 1.0.0
+load: STARTUP
+author: MCrafters
+description: From Now On You Can Mange Achivemnets
